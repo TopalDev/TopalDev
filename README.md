@@ -51,23 +51,9 @@
 
 ---
 
-### 🇹🇷 Turkish Flag 🇹🇷
+
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg" alt="Turkish Flag" width="150" style="animation: wave 2s infinite ease-in-out;" />
+  <img src="https://media.giphy.com/media/VU0sxKPVDk6jjk9Tu8/giphy.gif" alt="Waving Turkish Flag" width="150" />
 </p>
 
-<style>
-@keyframes wave {
-  0%, 100% { transform: rotate(0deg); }
-  50% { transform: rotate(5deg); }
-}
-img[alt="Turkish Flag"] {
-  display: inline-block;
-  transform-origin: 70% 70%;
-  animation-name: wave;
-  animation-duration: 2s;
-  animation-iteration-count: infinite;
-  animation-timing-function: ease-in-out;
-}
-</style>
