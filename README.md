@@ -55,5 +55,3 @@
 
 <p align="center">
   <img src="[https://media.giphy.com/media/VU0sxKPVDk6jjk9Tu8/giphy.gif](https://tenor.com/view/t%C3%BCrkiye-turkish-flag-turkey-turkic-t%C3%BCrk-gif-5410306440269653924)" alt="Waving Turkish Flag" width="150" />
-</p>
-
