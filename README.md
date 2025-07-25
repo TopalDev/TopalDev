@@ -44,7 +44,7 @@
 ### 📫 How to Reach Me
 
 <p align="center">
-  <a href="https://discordapp.com/users/deliyurek#1234" target="_blank">
+  <a href="https://discordapp.com/users/deliyurek" target="_blank">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/discord.svg" alt="Discord" height="30" />
   </a>
 </p>
